@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoPredict – Urban Climate Risk Platform</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Optional external CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2c7a7b;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #2c7a7b;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 12px 25px;
+            margin-top: 20px;
+            background-color: #2c7a7b;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>EcoPredict</h1>
+        <p>Predictive platform for urban climate risks</p>
+    </header>
+
+    <section>
+        <h2>About EcoPredict</h2>
+        <p>
+            EcoPredict is a **data-driven platform** that uses **satellite imagery, AI/ML models, and optionally IoT sensors** 
+            to provide real-time predictive insights on **urban environmental risks** like floods, heatwaves, and air pollution.
+        </p>
+        <p>
+            Our mission is to help **cities, governments, and communities** make proactive decisions to improve safety, resilience, and quality of life.
+        </p>
+    </section>
+
+    <section>
+        <h2>Key Features</h2>
+        <ul>
+            <li>Predictive modeling of urban climate risks using AI/ML</li>
+            <li>Integration of satellite data for global coverage</li>
+            <li>Optional IoT sensor data for hyper-local accuracy</li>
+            <li>Interactive visualization dashboard for decision-makers</li>
+        </ul>
+        <a href="mailto:your-email@example.com" class="cta-button">Contact Us / Collaborate</a>
+    </section>
+
+    <footer>
+        <p>© 2025 EcoPredict. All rights reserved.</p>
+        <p><a href="https://github.com/YourUsername/EcoPredict" style="color:#fff;">GitHub Repository</a></p>
+    </footer>
+
+</body>
+</html>
