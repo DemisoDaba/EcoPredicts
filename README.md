@@ -25,7 +25,8 @@ The project is **open-source** to encourage **collaboration, transparency, and r
 
 ## Contributing
 
-**Contributions are welcome!** Please see **_CONTRIBUTING.md_** for guidelines.
+**Contributions are welcome!** Please see **[Contributing](CONTRIBUTING.md)** for guidelines.
 
 ## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
