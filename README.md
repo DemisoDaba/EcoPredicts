@@ -26,3 +26,6 @@ The project is **open-source** to encourage **collaboration, transparency, and r
 ## Contributing
 
 **Contributions are welcome!** Please see **_CONTRIBUTING.md_** for guidelines.
+
+## License
+
