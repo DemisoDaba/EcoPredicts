@@ -1,4 +1,4 @@
-# EcoPredict – Urban Climate Risk Prediction Platform
+# EcoPredicts – Urban Climate Risk Prediction Platform
 
 ## Description
 EcoPredict is a **data-driven platform** that provides predictive insights on **urban environmental risks** such as floods, heatwaves, and air pollution. Using **satellite imagery, AI/ML models, and optionally IoT sensors**, the platform helps **cities, local governments, and communities** make proactive, data-driven decisions to improve **safety, resilience, and quality of life**.
