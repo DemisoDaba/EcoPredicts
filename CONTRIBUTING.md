@@ -52,7 +52,7 @@ Thank you for your interest in contributing to **EcoPredicts**! Your contributio
 
 ## Code of Conduct
 
- - Please follow the **Contributor Covenant Code of Conduct** to maintain a welcoming and inclusive community.
+ - Please follow the **[Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/)** to maintain a welcoming and inclusive community.
 
 ## Thank You
 
