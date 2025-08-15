@@ -1,4 +1,4 @@
-# Contributing to EcoPredict
+# Contributing to EcoPredicts
 
 Thank you for your interest in contributing to **EcoPredicts**! Your contributions help improve the platform and expand its impact on urban climate resilience.
 
